@@ -2,3 +2,4 @@ pyrogram
 moviepy
 flask
 gunicorn
+tgcrypto
